@@ -16,7 +16,7 @@ sqlalchemy
 openpyxl
 requests
 spacy
-pypdf==4.2.0
+pypdf==6.4.0
 selenium
 numpy
 webdriver-manager
