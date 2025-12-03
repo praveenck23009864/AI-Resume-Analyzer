@@ -1167,7 +1167,7 @@ class ResumeApp:
                 <img src="{image_base64 if image_base64 else 'https://avatars.githubusercontent.com/u/141472050?v=4'}"
                      alt="Praveen CK"
                      class="profile-image"
-                     onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/praveenck23009864';">
+                     onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/u/141472050?v=4';">
                 <h2 class="profile-name">Praveen CK (Keni)</h2>
                 <p class="profile-title">Full Stack Developer & AI/ML Enthusiast</p>
                 <div class="social-links">
@@ -2987,6 +2987,7 @@ if __name__ == "__main__":
     app = ResumeApp()
 
     app.main()
+
 
 
 
