@@ -490,7 +490,7 @@ class ResumeApp:
             <p style='text-align: center;'>
                 Powered by <b>Streamlit</b> and <b>Google Gemini AI</b> | Developed by 
                 <a href="https://www.linkedin.com/in/patel-hetkumar-sandipbhai-8b110525a/" target="_blank" style='text-decoration: none; color: #FFFFFF'>
-                    <b>Het Patel (Hunterdii)</b>
+                    <b>PraveenCK(Keni)</b>
                 </a>
             </p>
             <p style='text-align: center; font-size: 12px; color: #888888;'>
@@ -2985,4 +2985,5 @@ class ResumeApp:
 
 if __name__ == "__main__":
     app = ResumeApp()
+
     app.main()
