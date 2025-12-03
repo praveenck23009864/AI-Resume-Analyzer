@@ -1164,7 +1164,7 @@ class ResumeApp:
         # Profile Section
         st.markdown(f"""
             <div class="profile-section">
-                <img src="{image_base64 if image_base64 else 'https://avatars.githubusercontent.com/praveenck23009864'}"
+                <img src="{image_base64 if image_base64 else 'https://avatars.githubusercontent.com/u/141472050?v=4'}"
                      alt="Praveen CK"
                      class="profile-image"
                      onerror="this.onerror=null; this.src='https://avatars.githubusercontent.com/praveenck23009864';">
@@ -2987,6 +2987,7 @@ if __name__ == "__main__":
     app = ResumeApp()
 
     app.main()
+
 
 
 
